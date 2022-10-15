@@ -1,0 +1,15 @@
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\bin\Debug\net6.0\Execise25.exe
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\bin\Debug\net6.0\Execise25.deps.json
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\bin\Debug\net6.0\Execise25.runtimeconfig.json
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\bin\Debug\net6.0\Execise25.dll
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\bin\Debug\net6.0\Execise25.pdb
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.csproj.AssemblyReference.cache
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.AssemblyInfoInputs.cache
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.AssemblyInfo.cs
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.csproj.CoreCompileInputs.cache
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.dll
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\refint\Execise25.dll
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.pdb
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\Execise25.genruntimeconfig.cache
+D:\Science\GB\Home_tasks\Introduction_to_programming_languages\Task_4\Execise25\obj\Debug\net6.0\ref\Execise25.dll
